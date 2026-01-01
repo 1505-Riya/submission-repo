@@ -1,0 +1,10 @@
+# Ignore big data and result folders
+data/
+output/
+
+# Ignore Jupyter Notebook autosave checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files (good practice)
+__pycache__/
+*.pyc
